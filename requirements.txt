@@ -1,0 +1,9 @@
+opencv_python
+Pillow
+psutil
+pyautogui
+pycryptodomex
+pyttsx3
+pywin32
+Requests
+pyinstaller
