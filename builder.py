@@ -79,9 +79,9 @@ def FSOCIETY():
 
 [*] The world is a dangerous place not because of those who do evil but because of those who look on and do nothing
 
-[+] Version | v3.0
-[+] Author  | d1pl0m2t
-[*] Github  | https://github.com/d1pl0m2t
+[+] Version | v1.0
+[+] Author  | necouncil
+[*] Github  | https://github.com/necouncil
 [*] TikTok  | https://www.tiktok.com/@societycontroled
 """)
 
@@ -217,3 +217,4 @@ if __name__ == "__main__":
         print("\n[i] Отменено пользователем")
     except Exception as e:
         print(f"[!] Критическая ошибка: {e}")
+
