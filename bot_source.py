@@ -215,6 +215,6 @@ def start_bot():
         time.sleep(5)
         start_bot()
 
-if name == "main":
+if __name__ == "__main__":
     import time
     start_bot()
